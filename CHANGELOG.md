@@ -6,6 +6,11 @@
 ### Bug fixes
 
 ### Breaking Changes
+x.y.z (TBD)
+------------------
+
+### Enhancements
+- Update Fody to 3.0.
 
 3.0.0 (2018-04-16)
 ------------------
